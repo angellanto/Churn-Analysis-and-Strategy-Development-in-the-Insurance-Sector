@@ -1,5 +1,5 @@
 # Churn Analysis and Strategy Development in the Insurance Sector
-## Business Challenge I | Team Assignment Grade: 88/100
+### Business Challenge I | Team Assignment Grade: 88/100
 ### Professor Comment:
 Thank you for submitting your assignment. Below, you will find detailed feedback highlighting the strengths of your work as well as areas for potential improvement. This feedback is intended to support your learning and enhance the quality of your future projects:
 
